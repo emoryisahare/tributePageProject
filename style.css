@@ -1,0 +1,45 @@
+#main{
+  text-align: center;
+}
+
+#img-div{
+  margin-left: auto;
+  margin-right: auto; 
+}
+
+#image{
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+#tribute-info{
+  text-align: left;
+  margin: 1em;
+  background-color: hsl(40, 69%, 64%);
+  padding: 0.5em;
+  border-color: black;
+  border-width: 5px;
+  border-style: solid;
+}
+
+li{
+  padding: .2em;
+  list-style: circle;
+}
+
+h2{
+  text-align: center;
+}
+
+footer{
+  text-align: center;
+  font-style: italic;
+}
+
+body{
+  background-color: hsl(32, 15%, 70%);
+  font-family: georgia, serif;
+}
+
